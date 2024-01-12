@@ -1,8 +1,7 @@
 ## Responsive Watches Website ⌚
 
-Responsive Watches Website Using HTML CSS & JavaScript
+Responsive Watches Website Using HTML\CSS & JavaScript
 
-Soon
 - Smooth scrolling in each section.
 - Includes a dark and light mode.
 - Developed first with the Mobile First methodology, then for desktop.
